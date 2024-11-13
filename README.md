@@ -7,7 +7,7 @@ Model Citations:<br>
   title={timm/densenet121.ra_in1k},
   author={Ross Wightman},
   year={2023},
-  howpublished={\url{https://huggingface.co/timm/densenet121.ra_in1k}}
+  published={\url{https://huggingface.co/timm/densenet121.ra_in1k}}
 }
 <br>
 
