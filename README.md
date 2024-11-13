@@ -2,8 +2,10 @@
 X-ray and MRI Medical Classifier
 
 The Following  Datasets were used
--
--
+.
+.
+.
+.
 1.) https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data
 Author: Madushani Rodrigo
 License: ODC Public Domain Dedication and Licence (PDDL)
@@ -17,10 +19,10 @@ Abdelaziz Faramawy - bone_fracture
   - https://www.kaggle.com/datasets/abdelazizfaramawy/bone-fracture
 Harsha Arya - fracture
   - https://kaggle.com/datasets/harshaarya/fracture
--
--
--
--
+.
+.
+.
+.
 2.) https://www.kaggle.com/datasets/vuppalaadithyasairam/bone-fracture-detection-using-xrays/data
 Author: Vuppala Adithya Sairam
 License: Unknown
@@ -29,10 +31,10 @@ This Data was collected from a different data source and was rotated to differen
 Original Dataset: https://www.kaggle.com/datasets/khhsu3/pediatric-radius-fracture?select=%E9%81%A0%E7%AB%AF%E6%89%8B%E8%85%95%E6%9C%89%E9%AA%A8%E6%8A%98
 Author: khhsu3
 License: Unknown
--
--
--
--
+.
+.
+.
+.
 3.) https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training
 Author: Masoud Nickparvar
 License: CC0: Public Domain
