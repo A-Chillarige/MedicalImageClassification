@@ -1,4 +1,4 @@
-# MedicalImageClassification
+# Medical Image Classification
 X-ray and MRI Medical Classifier
 
 The Following  Datasets were used <br>
