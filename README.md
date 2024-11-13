@@ -1,6 +1,33 @@
 # Medical Image Classification
 X-ray and MRI Medical Classifier
 
+Model Citations:<br>
+
+@misc{huggingface-timm-densenet121,
+  title={timm/densenet121.ra_in1k},
+  author={Ross Wightman},
+  year={2023},
+  howpublished={\url{https://huggingface.co/timm/densenet121.ra_in1k}}
+}
+<br>
+
+@inproceedings{huang2017densely,
+  title={Densely Connected Convolutional Networks},
+  author={Huang, Gao and Liu, Zhuang and van der Maaten, Laurens and Weinberger, Kilian Q },
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2017}
+}
+<be>
+
+@inproceedings{wightman2021resnet,
+  title={ResNet strikes back: An improved training procedure in timm},
+  author={Wightman, Ross and Touvron, Hugo and Jegou, Herve},
+  booktitle={NeurIPS 2021 Workshop on ImageNet: Past, Present, and Future}
+}
+
+<br>
+
+
 The Following  Datasets were used <br>
 <br>
 1.) https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data <br>
