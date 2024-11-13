@@ -78,7 +78,14 @@ Data for this dataset was collected from the following sources <br>
 3.) https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no<br>
 <br>
 
-
+<br>
+The Following Videos were incredibly helpful in learning how to:<br>  
+<br>
+Load Images for Image Classification:<br>
+https://www.youtube.com/watch?v=S8X6qcColBY&t=1458s<br>
+<br>
+Deploy the Model:<br>
+https://www.youtube.com/watch?v=bA7-DEtYCNM&t=839s<br>
 
 
 
